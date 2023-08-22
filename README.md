@@ -1,9 +1,11 @@
 # Topic-Modeling-Customer-Complaints
 
 **Thesis Title:**
+<br>
 Uncovering Customer Complaints on Twitter Using Topic Modeling: The Case of the Telecommunication Industry in the Philippines
 
 **Thesis Authors:**
+<br>
 Salvador, Mark Cristian Angelo V.
 Silverio, Neonne Hayle T.
 Zhang, Ronald Benz M.
