@@ -12,6 +12,8 @@ Silverio, Neonne Hayle T.
 <br>
 Zhang, Ronald Benz M.
 
-The study used Twitter to analyze complaints about Philippine telecom companies. Biterm Topic Model (BTM) and Latent Dirichlet Allocation (LDA) were compared for effectiveness. 345,667 tweets from 2022 were sampled to 83,592. BTM outperformed LDA in coherent topics and peak complaint periods were identified. Conclusions: (1) BTM excels in complaint analysis, (2) Address various complaints, (3) Note temporal peaks. BTM is recommended for modeling, focusing on network issues and service responsiveness. Further research should explore multi-year trends.
+- Employed topic modeling to extract hidden topics from customer complaints about Philippine telecommunications companies on Twitter, revealing areas for improvement for both companies and policymakers.
+- Applied various data preprocessing techniques to reduce the size of the data by 75%, resulting in shortened model training time and enhanced model interpretability.
+- Conducted web scraping of tweets, ensured data integrity by removing irrelevant tweets and retaining relevant ones, and implemented data sampling techniques to eliminate bias in the data.
 
 ![](https://github.com/Zay-Ben/Topic-Modeling-Customer-Complaints/blob/main/figures/Word%20Clouds.png)
