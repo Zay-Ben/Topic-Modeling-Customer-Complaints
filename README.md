@@ -1,4 +1,4 @@
-# Topic-Modeling-Customer-Complaints
+# Topic Modeling Customer Complaints
 
 Uncovering Customer Complaints on Twitter Using Topic Modeling: The Case of the Telecommunication Industry in the Philippines
 
